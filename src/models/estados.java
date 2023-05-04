@@ -74,7 +74,6 @@ public class estados {
     public String toString() {
         return "estados{" + "id=" + id + ", nombre=" + nombre + ", poblacion=" + poblacion + ", latitud=" + latitud + ", longitud=" + longitud + '}';
     }
-    
 }
 
 
