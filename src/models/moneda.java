@@ -59,6 +59,5 @@ public class moneda {
     @Override
     public String toString() {
         return "monedas{" + "id=" + id + ", nombremoneda=" + nombremoneda + ", simbolo=" + simbolo + ", valorenpesos=" + valorenpesos + '}';
-    }
-    
+    }  
 }
