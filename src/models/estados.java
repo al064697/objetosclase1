@@ -8,6 +8,7 @@ package models;
  *
  * @author Sebas
  */
+
 public class estados {
 
     public static void add(municipio municipio) {
