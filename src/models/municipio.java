@@ -39,6 +39,4 @@ public class municipio {
     public String toString() {
         return "municipio{" + "id=" + id + ", nombre=" + nombre + '}';
     }
-    
-    
 }
